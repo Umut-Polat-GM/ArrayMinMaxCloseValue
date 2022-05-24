@@ -1,2 +1,2 @@
 # Ödev
-![img](C:\Users\umutp\IdeaProjects\ArrrayMinMaxValue\odev.png)
+![img](odev.png)
